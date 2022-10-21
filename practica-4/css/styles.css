@@ -1,0 +1,41 @@
+p{
+   color:red; 
+}
+
+h3{
+    color:green;
+}
+
+.textUno{
+    color:rgba(54, 118, 40, 0.361);
+}
+
+#textoUnico{
+    color: aqua;
+}
+
+#divContenido{
+    /* color de fondo */
+    background-color: silver;
+    /* Alto de mi div */
+    /* height: 300px; */
+    /* Ancho de mi div */
+    width: 33%;
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 33%;
+    margin-bottom: 200px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 50px;
+}
+
+
+body{
+    background-image: url("../img/fondo.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
